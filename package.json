@@ -1,0 +1,22 @@
+{
+  "name": "karippa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kazuki19992/Karippa_Front.git"
+  },
+  "author": "kazuki Kushida",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kazuki19992/Karippa_Front/issues"
+  },
+  "homepage": "https://github.com/kazuki19992/Karippa_Front#readme",
+  "devDependencies": {
+    "typescript": "^4.0.3"
+  }
+}
